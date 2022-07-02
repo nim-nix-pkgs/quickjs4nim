@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656298032,
-        "narHash": "sha256-iXOrKJDxN9EsAqkK2CWeD6yKymAraQRZaKX/8H1MP70=",
+        "lastModified": 1656301192,
+        "narHash": "sha256-pgxBDBE2VoDhAL24/bpT2IMHfir3kCdn1s78wUblX+I=",
         "owner": "nim-nix-pkgs",
         "repo": "quickjs4nim",
-        "rev": "826e0eb3cb55bf70da9a78404c93c280b5e8beb4",
+        "rev": "7a72e42a9e9ff539ee3b66e96e600ddaf040719b",
         "type": "github"
       },
       "original": {
